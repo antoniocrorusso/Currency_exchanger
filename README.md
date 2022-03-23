@@ -5,4 +5,4 @@ This is a simple project utilizing web scrapping concepts.
 
 All values are updated in real time utilising br.investing.com values.
 
-This project used the BeautifylSoup and requests packages. More requirements at the requirements.txt
+This project used the BeautifulSoup and requests packages. More requirements at the requirements.txt
